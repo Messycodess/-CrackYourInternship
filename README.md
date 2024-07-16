@@ -1,4 +1,4 @@
-# CrackYourInternship
+# 45 Days DSA Challenge
 This is repository for updating my progress of Arsh Goyal 45 days challenge as I work through various DSA problems over the next 45 days.
 ## Overview
 The goal of this challenge is to improve my understanding and proficiency in data structures and algorithms by solving a variety of problems each day. This will help me prepare for technical interviews and enhance my problem-solving skills.
