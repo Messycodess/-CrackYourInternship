@@ -1,0 +1,18 @@
+class Solution:
+
+    def findMinDiff(self, A,N,M):
+
+        # code here
+        least=max(A)
+        A.sort()
+        B=[]
+        for i in range(0,N-M+1):
+            B=A[i:i+M]
+            min_=min(B)
+            max_=max(B)
+            current=max_-min_
+            if least>current:
+                least=current
+        return least     
+   #Brute force solution             
+        
